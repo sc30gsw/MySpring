@@ -375,3 +375,21 @@ org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: Can't read ro
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-11 07:27:14.391
 !MESSAGE executing callback sts4.classpath.nRyWGhua SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-11 07:30:21.010
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-11 07:30:21.012
+!MESSAGE buffering callback sts4.classpath.nRyWGhua demo true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-11 07:30:21.012
+!MESSAGE executing callback sts4.classpath.nRyWGhua 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-11 07:30:21.017
+!MESSAGE executing callback sts4.classpath.nRyWGhua SUCCESS [終了しました]
+
+!ENTRY mergedoc.encoding 2 0 2021-11-11 07:30:21.022
+!MESSAGE リソース '/demo/src/main/java/com/example/demo/DemoApplication.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-11 07:30:21.023
+!MESSAGE リソース '/demo/src/main/java/com/example/demo/DemoApplication.java' が存在しません。
